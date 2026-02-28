@@ -192,7 +192,7 @@ Data type consistency between frontend and backend
 
 🔧 Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/fraud-detection-system.git
+git clone https://github.com/https://github.com/Rahemath13/fraud-detection-system.git
 cd fraud-detection-system
 
 2️⃣ Create Virtual Environment
@@ -249,5 +249,6 @@ Precision
 Recall
 
 F1-score
+
 
 ROC-AUC
